@@ -11,7 +11,7 @@ cachetools==5.3.2
 catalogue==2.0.10
 cloudpathlib==0.16.0
 clyent==1.2.1
-Django==5.0.2
+Django==4.0.1
 djangorestframework==3.14.0
 jsonpointer==2.1
 keras==2.15.0
